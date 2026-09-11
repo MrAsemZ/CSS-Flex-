@@ -1,0 +1,72 @@
+#container{
+    background-color:#FFFFFF;
+    border:5px solid #C59B27;
+    height:480px;
+    color:#FFFFFF;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.similar{
+    height:50px;
+    font-size: 36px;
+    padding: 2px;
+}
+
+#item-1{
+    background-color:#16A085;
+    height: 20px;
+    font-size: 13px;
+    align-self: baseline;
+    padding: 2px;
+
+}
+#item-2{
+    background-color: #2980B9;
+}
+#item-3{
+    background-color: #8E44AD;
+}
+#item-4{
+    background-color: #34495E;
+    align-self: stretch;
+    font-size: 60px;
+    padding: 2px;
+
+}
+#item-5{
+    background-color: #F1C40F;
+    height: 20px;
+    font-size: 13px;
+    align-self:center;
+    padding: 2px;
+
+
+}
+#item-6{
+    background-color: #E67E22;
+}
+#item-7{
+    background-color: #E74C3C;
+}
+#item-8{
+    background-color: #BDC3C7;
+}
+#item-9{
+    background-color: #2ECC71;
+}
+#item-10{
+    background-color: #16A085;
+    height:45px;
+    font-size: 34px;
+    align-self: flex-end;
+    padding: 2px;
+
+}
+
+/**********************************
+*     CSS FlexBox Task            *
+*     Exercise 6 By Asem Al-Zaghal*
+**********************************/
