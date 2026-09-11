@@ -1,0 +1,27 @@
+#container{
+    border:2px solid #7DA1B5;
+    border-radius: 12px;
+    height:350px;
+    width: 500px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#centerMe{
+    background-color: #4C739A;
+    color:#FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width: 200px;
+    height:70px;
+
+}
+
+/**********************************
+*     CSS FlexBox Task            *
+*     Exercise 3 By Asem Al-Zaghal*
+**********************************/
