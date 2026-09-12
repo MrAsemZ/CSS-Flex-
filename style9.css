@@ -1,0 +1,58 @@
+#container{
+    border: 5px solid #C59B27;
+    color: #FFFFFF;
+    height: 480px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:10px;
+    padding:10px;
+
+
+}
+
+.a{
+    width:31%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 34px;
+}
+
+#item-1{
+    background-color: #16A085;
+}
+#item-2{
+    background-color: #2980B9;
+}
+#item-3{
+    background-color: #8E44AD;
+}
+#item-4{
+    background-color: #34495E;
+}
+#item-5{
+    background-color: #F1C40F;
+}
+#item-6{
+    background-color: #E67E22;
+}
+#item-7{
+    background-color: #E74C3C;
+}
+#item-8{
+    background-color: #BDC3C7;
+}
+#item-9{
+    background-color: #2ECC71;
+}
+#item-10{
+    background-color: #138770;
+}
+
+/**********************************
+*     CSS FlexBox Task            *
+*     Exercise 9 By Asem Al-Zaghal*
+**********************************/
